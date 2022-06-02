@@ -1,0 +1,23 @@
+.title {
+    font-size: 32px;
+    font-family: "HoloLens MDL2 Assets", "Corbel Light", sans-serif;
+    padding: 20px 30px;
+}
+
+.form {
+    margin-left: 30px;
+}
+
+.form__inp {
+    font-size: 16px;
+}
+
+.form__btn {
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.cardList {
+    display: flex;
+    flex-wrap: wrap;
+}
